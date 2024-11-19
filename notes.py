@@ -21,7 +21,7 @@ button =Button(root, text="click here", bd='10')
 
 button.config(command=clicker)
 button.config (command= callback)
-button.config(command=button.destroy)
+#button.config(command=button.destroy)
 
 
 
